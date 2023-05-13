@@ -11,3 +11,13 @@ body {
   max-width: min(90%, 1110px);
   margin: auto;
 }
+
+.heading {
+  font-size: 80px;
+  color: gray;
+}
+.paragraph {
+  font-size: 28px;
+  border-radius: 20px;
+  border: 4px solid red;
+}
